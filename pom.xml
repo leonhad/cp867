@@ -5,7 +5,7 @@
     <groupId>io.github.leonhad</groupId>
     <artifactId>cp867</artifactId>
     <version>1.0.0</version>
-    <name>cp867</name>
+    <name>CP867</name>
     <description>CP867 Java charset support</description>
     <url>https://github.com/leonhad/cp867</url>
     <inceptionYear>2024</inceptionYear>
